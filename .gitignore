@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Data (optional - if dataset is large)
+# data/*.csv
+
+# Environment
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
